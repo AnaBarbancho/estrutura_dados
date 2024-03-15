@@ -1,4 +1,4 @@
-# estrutura_dados<h1>Entrega de atividades de Estrutura de Daods</h1>
+# estrutura_dados<h1>Entrega de atividades de Estrutura de Dados</h1>
 <p>Ana Júlia Tette Lopes Afonso</p>
 <p>Desenvolvimento de Software Multiplataforma - 2° Semestre</p>
 <p>Professor: Fabricio Galende Marques de Carvalho</p>
